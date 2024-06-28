@@ -1,0 +1,4 @@
+collections:
+  - name: gigix.demo
+    version: main
+    src: git+https://github.com/ansible/role-example.git
