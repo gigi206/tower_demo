@@ -1,5 +1,12 @@
+#roles:
+#  - name: demo
+#    version: main
+#    scm: git
+#    src: https://github.com/gigi206/ansible_galaxy_demo
+#    #src: git@github.com/gigi206/ansible_galaxy_demo.git:/gigix/demo/roles/demo
+
 collections:
   - name: gigix.demo
-    version: main
-    scm: git
-    src: https://github.com/gigi206/ansible_galaxy_demo
+    #version: main
+    #scm: git
+    #src: https://github.com/gigi206/ansible_galaxy_demo
