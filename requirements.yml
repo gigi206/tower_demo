@@ -2,4 +2,4 @@ collections:
   - name: gigix.demo
     version: main
     scm: git
-    src: https://github.com/ansible/role-example.git
+    src: https://github.com/gigi206/ansible_galaxy_demo
