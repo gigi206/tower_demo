@@ -1,0 +1,4 @@
+- name: demo
+  hosts: "{{ target | default('all') }}"
+  roles:
+    - gigix.demo.demo
