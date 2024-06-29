@@ -1,0 +1,4 @@
+[submodule "collections/ansible_collections/gigix/demo"]
+	path = collections/ansible_collections/gigix/demo
+	url = https://github.com/gigi206/ansible_galaxy_demo
+	branch = main
